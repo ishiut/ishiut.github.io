@@ -1,0 +1,147 @@
+body{
+	background-color : #e0e0e0; 
+	color: #000000;
+	text-align:left;
+	font-size:12pt;
+}
+h1{ font-style:right;
+ font-weight:bold;
+ font-size:xx-large;
+ text-align:center;}
+h2{ font-style:normal;
+ font-weight:bold;
+ font-size:x-large;
+ text-align:center;}
+h3{ font-style:normal;
+ font-weight:bolder;
+ font-size:x-large;
+ text-align:left;
+ margin-left:10%;
+ margin-right:10%;}
+h3 span.date{
+	font-size:small;
+	font-weight:normal;
+	color:#606060;
+}
+h4{ font-style:normal;
+ font-weight:bold;
+ font-size:normal;
+ text-align:left;
+ margin-left:10%;
+ margin-right:10%;}
+p{ text-align:left;
+ text-indent:1ex;
+ margin-left:10%;
+ margin-right:10%;
+font-size: normal
+}
+div{
+	margin-left:10%;
+	margin-right:10%;
+}
+p.monolog{ 
+	text-align:left;
+	text-indent:1ex;
+	margin-left:10%;
+	margin-right:10%;
+	font-size: 80%;
+	font-style: italic
+}
+p.remark{
+	text-align:left;
+	text-indent:1ex;
+	margin-left:10%;
+	margin-right:10%;
+	font-size: 90%;
+	font-style: italic
+}
+p.pre{ 
+	text-align:right;
+	font-size: small;
+	color: green;
+}
+p.update{
+	text-align:center;
+}
+p.noindent{
+	text-align:left;
+	text-indent:0pt;
+	margin-left:10%;
+	margin-right:10%;
+}
+p.center{
+	text-align:center;
+}
+div.pinfo{
+	font-size:10pt;
+	text-align:center;
+	width:40%;
+	background-color:#f080f0;
+	align:center;
+}
+div.center{
+	align:center;
+	text-align:center;
+}
+small{
+	font-size:6pt;
+}
+blockquote{ font-style:italic;
+ text-align:left;
+ margin-left:20%;
+ margin-right:20%;}
+#margin{
+	margin-left:20%;
+	margin-right:20%;
+}
+span.passive{
+	font-size:70%;
+}
+dl{
+margin-left:10%;
+margin-right:10%;
+font-size: normal
+}
+ul{
+margin-left:12pt;
+margin-right:12pt;
+}
+li.wide{
+margin-top:6pt;
+margin-bottom:6pt;
+}
+div.normal{
+margin-left:10%;
+margin-right:10%;
+}
+table{
+border-style:outset;
+border-width:thin;
+border-color:#e0e0e0;
+margin-left:10%;
+margin-right:10%;
+width:80%;
+}
+th, td{
+border-style:inset;
+border-width:thin;
+border-color:#e0e0e0;
+}
+div.important{
+margin-left:0%;
+margin-right:0%;
+width:auto;
+background-color:#e0ffe0;
+color:red;
+}
+tr.important{
+	background-color:#e0e0ff;
+	color:red;
+}
+div.indent{
+margin-left:5%;
+margin-right:5%;
+}
+div.papers{
+font-size:normal
+}
